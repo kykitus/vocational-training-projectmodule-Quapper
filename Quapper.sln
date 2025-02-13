@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quapper", "Quapper.csproj", "{3B884579-F40D-4442-B5C4-89981333B530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B884579-F40D-4442-B5C4-89981333B530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B884579-F40D-4442-B5C4-89981333B530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B884579-F40D-4442-B5C4-89981333B530}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3B884579-F40D-4442-B5C4-89981333B530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B884579-F40D-4442-B5C4-89981333B530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B884579-F40D-4442-B5C4-89981333B530}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29BF63D7-48A6-4741-9A42-DECF9F49A864}
+	EndGlobalSection
+EndGlobal

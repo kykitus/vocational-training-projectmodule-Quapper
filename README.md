@@ -1,2 +1,2 @@
 # Quapper
- An application, that serves as part of Quack application as Bluetooth service manager
+ An application, that serves Bluetooth service manager for Quack application
